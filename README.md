@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JordanElkins
 - 👀 I’m interested in ... Graphic Design, Photography, continuing to learn more about programming.
-- 🌱 I’m currently learning ... Self teaching trough Code Academy Python and C#.
+- 🌱 I’m currently learning ... Self teaching through Code Academy Python and C#.
 - 💞️ I’m looking to collaborate on ... Anything really. 
 - 📫 How to reach me ... personal email jordanselkins@gmail.com or cell phone 9318083091
 
